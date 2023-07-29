@@ -1,3 +1,15 @@
 plasma
 plasma-wayland-session
 power-profiles-daemon
+ark
+dolphin
+gwenview
+kamoso
+kate
+kcalc
+kdeconnect
+konsole
+kwalletmanager
+partitionmanager
+print-manager
+spectacle
