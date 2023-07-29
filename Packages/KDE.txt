@@ -1,0 +1,3 @@
+plasma
+plasma-wayland-session
+power-profiles-daemon
