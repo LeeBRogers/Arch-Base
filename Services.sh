@@ -3,7 +3,7 @@
 systemctl enable NetworkManager.service
 systemctl enable avahi-daemon.service
 systemctl enable paccache.timer
-systemctl eable reflector.timer
+systemctl enable reflector.timer
 systemctl enable sddm.service
 systemctl enable power-profiles-daemon.service
 systemctl enable systemd-timesyncd.service
