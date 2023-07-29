@@ -24,7 +24,7 @@ pipewire-pulse
 pipewire-alsa
 pipewire-jack
 wireplumber
-firwalld
+firewalld
 earlyoom
 cups
 system-config-printer
