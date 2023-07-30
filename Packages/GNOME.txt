@@ -1,0 +1,13 @@
+gnome
+gnome-extra
+file-roller
+gnome-text-editor
+cheese
+eog
+gnome-disk-utility
+gnome-system-monitor
+evince
+gnome-screenshot
+gnome-contacts
+gnome-calendar
+geary
