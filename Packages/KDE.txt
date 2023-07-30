@@ -15,3 +15,8 @@ print-manager
 spectacle
 firefox
 libreoffice-fresh
+mpv
+okular
+kontact
+korganizer
+thunderbird
