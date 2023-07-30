@@ -17,7 +17,6 @@ mint-artwork
 lightdm-slick-greeter
 gnome-screenshot
 file-roller
-eog
 gnome-calculator
 gnome-disk-utility
 libreoffice-fresh
