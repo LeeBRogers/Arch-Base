@@ -1,0 +1,14 @@
+xfce4
+xfce4-goodies
+xarchiver
+mousepad
+parole
+ristretto
+gnome-disk-utility
+gnome-system-monitor
+evince
+xfce4-screenshooter
+gnome-contacts
+orage
+galculator-gtk2
+geary
