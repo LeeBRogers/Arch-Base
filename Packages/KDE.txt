@@ -19,4 +19,4 @@ mpv
 okular
 kontact
 korganizer
-thunderbird
+kmail
