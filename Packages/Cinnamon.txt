@@ -18,4 +18,4 @@ eog
 cheese
 gnome-calculator
 gnome-disk-utility
-libreoffish-fresh
+libreoffice-fresh
