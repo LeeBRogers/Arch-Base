@@ -6,6 +6,7 @@ xplayer
 pix
 metacity
 gnome-shell
+gnome-terminal
 gnome-keyring
 libsecret
 blueberry
