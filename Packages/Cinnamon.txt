@@ -12,7 +12,9 @@ libsecret
 blueberry
 mintlocale
 cinnamon-translations
+mint-themes
 mint-artwork
+lightdm-slick-greeter
 gnome-screenshot
 file-roller
 eog
