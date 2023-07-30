@@ -5,6 +5,8 @@ systemctl enable avahi-daemon.service
 systemctl enable paccache.timer
 systemctl enable reflector.timer
 systemctl enable sddm.service
+#systemctl enable gdm.service
+#systemctl enable lightdm.service
 systemctl enable power-profiles-daemon.service
 systemctl enable systemd-timesyncd.service
 systemctl enable firewalld.service
