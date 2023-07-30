@@ -18,7 +18,6 @@ lightdm-slick-greeter
 gnome-screenshot
 file-roller
 eog
-cheese
 gnome-calculator
 gnome-disk-utility
 libreoffice-fresh
