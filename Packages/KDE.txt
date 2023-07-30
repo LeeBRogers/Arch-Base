@@ -13,3 +13,5 @@ kwalletmanager
 partitionmanager
 print-manager
 spectacle
+firefox
+libreoffish-fresh
