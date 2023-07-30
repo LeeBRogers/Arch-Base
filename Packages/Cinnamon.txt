@@ -13,13 +13,10 @@ mintlocale
 cinnamon-translations
 mint-artwork
 gnome-screenshot
-file-roller
-eog
-cheese
+file-rollerche
 gnome-calculator
 gnome-disk-utility
 libreoffish-fresh
-celluloid
 gnome-system-monitor
 gnome-contacts
 gnome-calendar
